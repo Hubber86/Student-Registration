@@ -1,13 +1,14 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
  pageEncoding="ISO-8859-1"%>
-<%@page import="com.employee.dao.*"%>
+<%@page import="com.student.dao.*"%>
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Details</title>
+<title>Student Details</title>
 </head>
 <body>
- <h1>User successfully registered!</h1>
+ <h1>Student Details successfully registered!</h1>
 </body>
 </html>
+
